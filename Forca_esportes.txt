@@ -1,0 +1,156 @@
+Arco e flecha
+Arremesso de peso
+Arvorismo
+Asa-delta
+Atletismo
+Automobilismo
+Badminton
+Base jumping
+Basquete
+Basquete em cadeira de rodas
+Beachtennis
+Beisebol
+Bilhar
+Biribol
+Bocha
+Bodyboard
+Boliche
+Boxe
+Bungee jumpee
+Cabo de guerra
+Caça esportiva
+Caiaque
+Caminhada
+Canoagem
+Capoeira
+Cheerleading
+Ciclismo
+Ciclismo de Estrada
+Ciclismo de Pista
+Corrida com obstáculos
+Corrida de revezamento
+Corrida de Rua
+Corrida livre
+Cricket
+Cross Country
+Crossfit
+Dama
+Dança Esportiva
+Dardos
+Decathlon
+Dominó
+Escalada
+Escalada Esportiva
+Esgrima
+Fisiculturismo
+Futebol
+Futebol Americano
+Futebol de Areia
+Futevôlei
+Futsal
+Ginástica Artística
+Ginástica olímpica
+Ginástica Ritmica
+Ginástica rítmica
+Goalball
+Golfe
+Halterofilismo
+Handebol
+Highline
+Hipismo
+Hóquei
+Hóquei de Grama
+Hóquei no gelo
+Iatismo
+Jiu-Jitsu
+Judô
+Karatê
+Kart
+Kickboxe
+Kickboxing
+Kitesurfe
+Kung Fu
+Lacrosse
+Lançamento de dardo
+Lançamento de disco
+Lançamento de martelo
+Levantamento de Peso
+Luge
+Luta grega
+Luta livre
+Maratona
+Marcha atlética
+Meia-maratona
+Mergulho
+Minigolf
+MMA
+Montanhismo
+Motociclismo
+Motocross
+Mountain bike
+Mountain Biking
+Muay Thai
+Nado Artístico
+Nado borboleta
+Nado costas
+Nado livre
+Nado medley
+Nado peito
+Nado sincronizado
+Natação
+Paintball
+Palant
+Parapente
+Paraquedismo
+Parkour
+Patinação
+Patinação artística
+Patinação Artística no Gelo
+Patinação de velocidade
+Patinação de Velocidade no Gelo
+Patinação no gelo
+Polo
+Polo Aquático
+Pôquer
+Queimada
+Rafting
+Rapel
+Remo
+Rugby
+Salto com vara
+Salto em altura
+Salto em distância
+Saltos Ornamentais
+Sinuca
+Skate
+Skeleton
+Ski Esportivo
+Skysurfing
+Slackline
+Snowboard
+Snowboard Esportivo
+Softball
+Squash
+Stand Up Paddle
+Sumô
+Surfe
+Taekwondo
+Tênis
+Tênis de Mesa
+Tiro ao alvo
+Tiro com Arco
+Tiro Esportivo
+Trapézio
+Triathlon
+Triatlo
+UFC
+Vale tudo
+Vela
+Voleibol
+Voleibol de Praia
+Voo Livre
+Windsurf
+Wingsuit
+Xadrez
+Yoga
+Zumba
